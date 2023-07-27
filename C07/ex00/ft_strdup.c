@@ -6,7 +6,7 @@
 /*   By: lafuente <lafuente@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/20 16:52:30 by lafuente          #+#    #+#             */
-/*   Updated: 2023/07/24 13:27:33 by lafuente         ###   ########.fr       */
+/*   Updated: 2023/07/24 16:41:26 by lafuente         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,8 +27,8 @@ unsigned int	ft_strlen(char *str)
 char	*ft_strdup(char *src)
 {
 	char	*res;
-	int	srclen;
-	int	i;
+	int		srclen;
+	int		i;
 
 	srclen = ft_strlen(src);
 	res = (char *) malloc((srclen + 1) * sizeof(char));
