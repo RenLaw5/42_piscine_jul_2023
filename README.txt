@@ -21,7 +21,7 @@ Rush02   -> 0% (Makefile norme error)
 BSQ      -> 0% (Give up)
 
 EXAMS
-Exam00   -> 40%
-Exam01   -> 60%
-Exam02   -> 40%
-Final Exam
+Exam00      -> 40%
+Exam01      -> 60%
+Exam02      -> 40%
+Final Exam  -> 60%
